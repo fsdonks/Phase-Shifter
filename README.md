@@ -1,2 +1,7 @@
-# Phase-Shifter
-Tool to shift phase timing in formatted Demand File
+# phase-shift-demand
+
+A Clojure app to ... well, that part is up to you.
+
+## Usage
+
+FIXME
